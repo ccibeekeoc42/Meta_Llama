@@ -52,7 +52,7 @@ If you use this framework or the Llama3 model in your research, please cite it a
 ```bibtex
 @misc{llama3_2024,
   title={Llama3 Multilingual Fine-Tuning},
-  author={Christopher Ibe},
+  author={Christopher Ibe & Okezie Okoye},
   year={2024},
   howpublished={\url{https://github.com/ccibeekeoc42/llama3-finetuning}},
 }
